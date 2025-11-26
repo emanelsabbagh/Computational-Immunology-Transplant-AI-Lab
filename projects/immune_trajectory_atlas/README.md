@@ -89,7 +89,7 @@ This project will anchor CITA Lab’s identity and demonstrate its scientific va
 
 ## 👩‍🔬 Lead Scientist
 
-**Dr. Eman Elsabbagh**  
+** Eman Elsabbagh, MD, MSc **  
 Computational Immunology and Transplant AI Lab (CITA Lab)
 
 ---
