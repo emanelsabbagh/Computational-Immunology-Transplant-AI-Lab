@@ -13,4 +13,4 @@ These notebooks support the lab’s work on relapse and immune recovery modeling
 
 Available Notebooks
 
-01_basic_tcr_synthetic.ipynb TCR “seed”. 
+01_basic_tcr_synthetic.ipynb: TCR “seed”. 
