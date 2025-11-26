@@ -98,3 +98,7 @@ Computational Immunology and Transplant AI Lab (CITA Lab)
 
 This project uses only **public datasets** and contains **no PHI**.  
 Future IRB-based expansions will occur within the appropriate institutional framework.
+
+## Available Notebooks
+
+- `01_pbmc68k_composition.ipynb` – basic immune atlas slice using PBMC68k: UMAP by immune cell type, immune composition bar plot, and mapping of known cell types onto Leiden clusters.
